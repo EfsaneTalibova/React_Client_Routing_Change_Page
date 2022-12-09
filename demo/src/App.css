@@ -1,0 +1,23 @@
+.navList{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
+li{
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: bisque;
+}
+.pageInfo{
+  display: flex;
+  justify-content: center;
+}
+p{
+  display: flex;
+  justify-content: center;
+}
